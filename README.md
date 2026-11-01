@@ -4,6 +4,8 @@
 
 ## Skills
 
+- [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
+
 ## Plugins
 
 ## Hooks
