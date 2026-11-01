@@ -4,7 +4,7 @@
 
 ## Skills
 
-- [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
+- 生成简约可爱的 IP 吉祥物 Logo：[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
 
 ## Plugins
 
