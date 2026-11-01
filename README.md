@@ -1,42 +1,11 @@
 # agent-shelf
 
-我的 Agent 工具收藏：Skills、Plugins、Hooks、MCP，以及使用笔记。
+收藏的 Skills、Plugins、Hooks 和 MCP GitHub 仓库。
 
-## 分类
+## Skills
 
-| 分类 | 内容 |
-| --- | --- |
-| [Skills](skills/README.md) | 可复用的技能、指令和工作流 |
-| [Plugins](plugins/README.md) | Agent 平台或开发工具的插件与扩展 |
-| [Hooks](hooks/README.md) | 由事件触发的检查、脚本和自动化动作 |
-| [MCP](mcp/README.md) | MCP 服务、工具集和连接配置笔记 |
+## Plugins
 
-## 如何收藏
+## Hooks
 
-1. 找到对应分类，在分类 README 的收藏表中添加名称、来源、用途和状态。
-2. 需要记录安装步骤、配置或使用心得时，在对应目录下新建 `工具名.md`，并从收藏表链接过去。
-
-状态统一使用：`待体验`、`试用中`、`在用`、`已停用`。
-
-## 使用笔记模板
-
-复制到对应分类下的独立 Markdown 文件中，按需填写：
-
-```markdown
-# 工具名称
-
-- 来源：[项目或官方文档](https://example.com)
-- 用途：解决什么问题
-- 适用平台：支持哪些 Agent 或开发工具
-- 状态：待体验
-
-## 安装与配置
-
-记录安装步骤和配置示例。
-
-## 使用记录
-
-记录实际用法、体验和限制。
-```
-
-配置示例中的密钥和令牌使用占位符。
+## MCP
